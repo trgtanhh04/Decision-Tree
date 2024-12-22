@@ -5,6 +5,9 @@
 ### Description
 This assignment involves building decision trees on real-world datasets using `scikit-learn`.
 
+### Full Report
+You can access the full report here: [Lab Report PDF](https://drive.google.com/file/d/1sEL8unQ5DeqvrtGWO3lblDr6rPs8YxcT/view?usp=sharing)
+
 ### Datasets
 1. **Binary Class Dataset**: [UCI Breast Cancer Wisconsin (Diagnostic) dataset](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic)
    - **Purpose**: Classify tumors as malignant (M) or benign (B).
