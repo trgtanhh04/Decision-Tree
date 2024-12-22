@@ -12,7 +12,7 @@ This assignment involves building decision trees on real-world datasets using `s
 2. **Multi-class Dataset**: [UCI Wine Quality dataset](https://archive.ics.uci.edu/dataset/186/wine+quality)
    - **Purpose**: Classify wine quality based on physicochemical properties.
    - **Size**: 4898 samples.
-3. **Additional Dataset**: Chosen by the student, meeting these criteria:
+3. **Multi-class Dataset**: [UCI Heart Disease](https://archive.ics.uci.edu/dataset/45/heart+disease)
    - Contains features and labels for supervised learning.
    - At least 300 samples.
    - Includes multiple classes or binary classes.
@@ -46,33 +46,3 @@ This assignment involves building decision trees on real-world datasets using `s
      - High quality (7-10)
    - Analyze the effect of dataset characteristics on model performance.
 
----
-
-### Requirements
-1. **Report**:
-   - Member information and task assignment table.
-   - Self-evaluation of completion rate.
-   - Include visualizations in `.ipynb` files and insights in the report.
-   - Ensure well-formatted PDFs without cut-off figures.
-   - Include references if applicable.
-
-2. **Submission**:
-   - Compress all files into `.zip`, `.rar`, or `.7z` format named as `StudentID1_StudentID2_etc`.
-   - If the file exceeds 25MB, host large files on Google Drive and share a link.
-
----
-
-### Assessment
-- **Analysis of Datasets**:
-  - Breast Cancer: 30%
-  - Wine Quality: 30%
-  - Additional Dataset: 30%
-- **Comparative Analysis**: 5%
-- **Notebook Quality**: 5%
-
----
-
-### Notices
-- This is a group assignment with 4 members.
-- Duration: ~2 weeks.
-- Plagiarism or dishonesty will result in a 0 grade.
